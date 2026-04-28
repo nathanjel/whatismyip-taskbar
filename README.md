@@ -60,3 +60,7 @@ If the tray app is running, the uninstall command first asks that running instan
 ## Attribution
 
 This project was generated with GPT-5.5 and Codex.
+
+## License
+
+MIT License. Copyright (c) 2026 Marcin Gałczyński <marcin@galczynski.pl>.
